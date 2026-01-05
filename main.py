@@ -75,6 +75,7 @@ def run_cli():
                 print(f"\n   APPROVED with a probability of {probability:.2f}\n")
             else:
                 print(f"\n   DENIED with a probability of {1 - probability:.2f}\n")
+            print ("--------------------------------")
         except ValueError:
             print("   Invalid input. Please enter numeric values only.\n")
 
