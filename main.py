@@ -36,6 +36,7 @@ print(f"Model Accuracy: {accuracy:.2f}")
 # CLI interface for user input
 def run_cli():
     print("\n--- UNSECURED DEBT APPROVAL PREDICTION ---\n")
+    print("\nDisclaimer: This tool provides an estimate of loan approval chances based on historical data and may not reflect actual lender decisions. It should be used for informational purposes only.\n")
     print("At any point, type 'exit' to quit the program.\n")
     while True:
         try:
@@ -51,7 +52,7 @@ def run_cli():
             
             # Input 3: Income & Debt (to calc DTI)
             income = float(input("   Annual Income ($): "))
-            monthly_debt = float(input("   Total Monthly Debt Payments ($): "))
+            monthly_debt = float(input("   Total Monthly Debt Payments ($) (Note: This includes all monthly debt obligations such as credit card payments, car loans, and mortgages): "))
             
             # Input 4: Employment
             emp = float(input("   Years of Employment (0-10): "))
