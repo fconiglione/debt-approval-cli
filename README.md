@@ -23,8 +23,8 @@ The public dataset from LendingClub was cleaned and preprocessed to handle missi
 
 ## Contact
 
-GitHub - [https://github.com/fconiglione](https://github.com/fconiglione)
+**GitHub - [https://github.com/fconiglione](https://github.com/fconiglione)**
 
-LinkedIn - [https://www.linkedin.com/in/francescoconiglione/](https://www.linkedin.com/in/francescoconiglione/)
+**LinkedIn - [https://www.linkedin.com/in/francescoconiglione/](https://www.linkedin.com/in/francescoconiglione/)**
 
-Portfolio - [https://www.francescoconiglione.com](https://www.francescoconiglione.com)
+**Portfolio - [https://www.francescoconiglione.com](https://www.francescoconiglione.com)**
